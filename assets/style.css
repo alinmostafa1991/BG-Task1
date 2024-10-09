@@ -1,0 +1,47 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    padding: 50px;
+}
+h1 , h2 , h3
+{
+    padding: 15px 0;
+}
+nav img
+{
+    width: 50px;
+}
+main span
+{
+    font-weight: bold;
+}
+.Contact img
+{
+    width: 12px;
+}
+.Title
+{
+    display: flex;
+}
+.Experience img , .Follow img , .Education img , .Education img , .Programming img , .Interests img
+{
+    width: 30px;
+    padding-right: 5px;
+}
+ul
+{
+    padding-left: 50px;
+}
+.Contact-Me .add-info
+{
+    padding: 20px 0;
+}
+footer iframe
+{
+    border-radius: 50%;
+}
